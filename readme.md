@@ -1,5 +1,7 @@
 # Context Menu Dictionary
 
+# MOVED TO GITLAB https://gitlab.com/losnappas/Context-menu-Wiktionary
+
 Wiktionary lives in the context menu.
 
 A Firefox web extension. Requires FF57. [https://addons.mozilla.org/en-US/firefox/addon/right-click-wiktionary/](https://addons.mozilla.org/en-US/firefox/addon/right-click-wiktionary/)
